@@ -4,7 +4,7 @@ In this repository, you will find a curated list of 100+ project ideas for JavaS
 
 ## Instructor
 
-[![Ajay Dhangar - GitHub](https://img.shields.io/badge/Ajay%20Dhangar-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-Dhangar)
+  [![Ajay Dhangar - GitHub](https://img.shields.io/badge/Ajay%20Dhangar-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-Dhangar)
 
 
 ## Course Description
@@ -168,7 +168,7 @@ For any questions or suggestions, feel free to contact the instructor:
 
 - [Ajay Dhangar](https://github.com/Ajay-Dhangar)
 - [LinkedIn](https://www.linkedin.com/in/ajay-dhangar/)
-- [Twitter](https://twitter.com/ajay_dhangar)
+- [Twitter](https://x.com/CodesWithAjay)
 
 ## Resources
 
@@ -179,3 +179,4 @@ Here are some additional resources to help you with your projects:
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- [CodeHarborHub](https://codeharborhub.github.io/docs/category/javascript/)
