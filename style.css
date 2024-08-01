@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --dark-bg-color: #4d5061;
+    --light-bg-color: #ffffff;    
+    --light-text: #ffffff;
+    --dark-text: #4d5061;
+    --text: #000000;
+    --btn-bg-color: #48bf84;
+    --btn-hover: #3a9d5d;
+    --btn-active: #2f7a4e;
+    --btn-text: #ffffff;
+    --btn-shadow: 0 5px 0 #3a9d5d;
+    --completed-bg: #f2f2f2;
+    --completed-text: #b3b3b3;    
+}

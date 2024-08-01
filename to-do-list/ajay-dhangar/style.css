@@ -1,0 +1,119 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--light-bg-color);
+    color: var(--light-text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.todo-container {
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    background-color: var(--dark-bg-color);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 80vh;
+    scrollbar-width: none;  
+}
+
+.todo-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;    
+}
+
+.contain {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#task-input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: var(--light-bg-color);
+    color: var(--dark-text);
+    border-radius: 5px;
+}
+
+#add-task-btn {
+    width: 100px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: var(--btn-bg-color);
+    color: var(--btn-text);
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: var(--btn-shadow);
+    transition: background-color 0.3s;
+}
+
+#add-task-btn:hover {
+    background-color: var(--btn-hover);
+}
+
+#add-task-btn:active {
+    background-color: var(--btn-active);
+}
+
+#task-list {
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+#task-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: var(--light-bg-color);
+    color: var(--dark-text);
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#task-list li span {
+    cursor: pointer;
+}
+
+#task-list li span:hover {
+    text-decoration: line-through;
+}
+
+#task-list li span:active {
+    color: var(--light-bg-color);
+}
+
+#task-list li button {
+    padding: 5px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: var(--btn-text);
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: var(--btn-shadow);
+    transition: background-color 0.3s;
+}
+
+#task-list li button:hover {
+    background-color: #ff0000;
+}
+
+#task-list li button:active {
+    background-color: #cc0000;
+}
+
+#task-list li.completed {
+    background-color: var(--completed-bg);
+    color: var(--completed-text);
+}
