@@ -1,0 +1,68 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--light-bg-color);
+    color: var(--dark-text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.timer-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    background-color: var(--dark-bg-color);
+    color: var(--light-text);
+    text-align: center;
+}
+
+.timer-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.timer-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.timer-container .controls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.timer-container .controls button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--btn-bg-color);
+    color: var(--btn-text);
+    font-size: 1.5em;
+    text-align: center;
+    box-shadow: var(--btn-shadow);
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+}
+
+.timer-container .controls button:hover {
+    background-color: var(--btn-hover);
+}
+
+.timer-container .controls button:active {
+    background-color: var(--btn-active);
+}
+
+.timer-container #timeDisplay {
+    font-size: 2.5rem;
+    margin: 20px 0;
+}
