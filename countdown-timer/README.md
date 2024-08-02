@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an intermediate-level project where you will create a countdown timer using HTML, CSS, and JavaScript. The countdown timer will allow users to set a time duration and count down to zero, displaying the remaining time dynamically. This project will help you practice DOM manipulation, event handling, and working with JavaScript's `setInterval` function.
+This is a beginner-to-intermediate-level project where you will create a countdown timer using HTML, CSS, and JavaScript. The countdown timer will allow users to set a time duration and count down to zero, displaying the remaining time dynamically. This project will help you practice DOM manipulation, event handling, and working with JavaScript's `setInterval` function.
 
 ## Project Structure
 

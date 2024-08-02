@@ -1,0 +1,71 @@
+body {  
+    font-family: 'Poppins', sans-serif;  
+    background-color: var(--light-bg-color);  
+    color: var(--dark-text);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-container {
+    text-align: center;
+    background-color: var(--dark-bg-color);
+    color: var(--light-text);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.game-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.game-container p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.game-container input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 100px;
+    text-align: center;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    border: none;
+}
+
+.game-container button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--btn-bg-color);
+    color: var(--btn-text);
+    font-size: 1.5em;
+    text-align: center;
+    box-shadow: var(--btn-shadow);
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+}
+
+.game-container button:hover {
+    background-color: var(--btn-hover);
+}
+
+.game-container button:active {
+    background-color: var(--btn-active);
+}
+
+#message {
+    margin-top: 20px;
+}
+
+#attempts {
+    margin-top: 20px;
+}
+
+#restart-button {
+    margin-top: 20px;
+}

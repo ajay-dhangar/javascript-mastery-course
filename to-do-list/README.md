@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an intermediate-level project where you will create a simple to-do list application using HTML, CSS, and JavaScript. The to-do list should allow users to add, remove, and mark tasks as completed. This project will help you understand DOM manipulation, event handling, and basic state management in JavaScript.
+This is a beginner-to-intermediate-level project where you will create a simple to-do list application using HTML, CSS, and JavaScript. The to-do list should allow users to add, remove, and mark tasks as completed. This project will help you understand DOM manipulation, event handling, and basic state management in JavaScript.
 
 ## Project Structure
 

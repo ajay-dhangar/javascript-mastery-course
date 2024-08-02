@@ -19,14 +19,14 @@ To get started with these project ideas, simply choose a project that interests 
 
 ### Beginner Projects
 
-1. **Hello World Alert**: Display a "Hello World" alert box. [Task](./hello-world-alert/)
+1. **Hello World Alert**: Display a "Hello World" alert box. | [Task](./hello-world-alert/)
 2. **Simple Calculator**: Basic arithmetic operations. [Task](./simple-calculator/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/simple-calculator/ajay-dhangar/)
-3. **To-Do List**: Add and remove tasks. [Task](./to-do-list/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/to-do-list/ajay-dhangar/)
-4. **Random Quote Generator**: Display random quotes. [Task](./random-quote-generator/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/random-quote-generator/ajay-dhangar/)
-5. **Countdown Timer**: Simple countdown functionality. [Task](./countdown-timer/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/countdown-timer/ajay-dhangar/)
-6. **Guess the Number Game**: Number guessing game.
-7. **Tip Calculator**: Calculate tips based on percentage.
-8. **Color Changer**: Change background color on button click.
+3. **To-Do List**: Add and remove tasks. | [Task](./to-do-list/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/to-do-list/ajay-dhangar/)
+4. **Random Quote Generator**: Display random quotes. | [Task](./random-quote-generator/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/random-quote-generator/ajay-dhangar/)
+5. **Countdown Timer**: Simple countdown functionality. | [Task](./countdown-timer/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/countdown-timer/ajay-dhangar/)
+6. **Guess the Number Game**: Number guessing game. | [Task](./guess-the-number-game/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/guess-the-number-game/ajay-dhangar/)
+7. **Tip Calculator**: Calculate tips based on percentage. | [Task](./tip-calculator/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/tip-calculator/ajay-dhangar/)
+8. **Color Changer**: Change background color on button click. | [Task](./color-changer/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/color-changer/ajay-dhangar/)
 9. **Form Validation**: Validate user inputs in a form.
 10. **Digital Clock**: Display current time.
 11. **Palindrome Checker**: Check if a string is a palindrome.
