@@ -27,8 +27,8 @@ To get started with these project ideas, simply choose a project that interests 
 6. **Guess the Number Game**: Number guessing game. | [Task](./guess-the-number-game/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/guess-the-number-game/ajay-dhangar/)
 7. **Tip Calculator**: Calculate tips based on percentage. | [Task](./tip-calculator/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/tip-calculator/ajay-dhangar/)
 8. **Color Changer**: Change background color on button click. | [Task](./color-changer/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/color-changer/ajay-dhangar/)
-9. **Form Validation**: Validate user inputs in a form.
-10. **Digital Clock**: Display current time.
+9. **Form Validation**: Validate user inputs in a form. | [Task](./form-validation/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/form-validation/ajay-dhangar/)
+10. **Digital Clock**: Display current time. | [Task](./digital-clock/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/digital-clock/ajay-dhangar/)
 11. **Palindrome Checker**: Check if a string is a palindrome.
 12. **Character Counter**: Count characters in a textarea.
 13. **Weather App**: Fetch and display weather information.
