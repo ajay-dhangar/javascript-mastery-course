@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--dark-bg-color);
+    color: var(--dark-text);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock {
+    font-size: 5em;
+    background: var(--light-bg-color);
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}

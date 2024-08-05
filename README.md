@@ -29,17 +29,17 @@ To get started with these project ideas, simply choose a project that interests 
 8. **Color Changer**: Change background color on button click. | [Task](./color-changer/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/color-changer/ajay-dhangar/)
 9. **Form Validation**: Validate user inputs in a form. | [Task](./form-validation/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/form-validation/ajay-dhangar/)
 10. **Digital Clock**: Display current time. | [Task](./digital-clock/) | [Live Demo](https://ajay-dhangar.github.io/javascript-mastery-course/digital-clock/ajay-dhangar/)
-11. **Palindrome Checker**: Check if a string is a palindrome.
-12. **Character Counter**: Count characters in a textarea.
-13. **Weather App**: Fetch and display weather information.
-14. **Currency Converter**: Convert currency rates.
-15. **BMI Calculator**: Calculate Body Mass Index.
-16. **Simple Form Validation**: Validate form inputs.
-17. **Temperature Converter**: Convert between Celsius and Fahrenheit.
-18. **Dynamic Background Color Changer**: Change background color based on time.
-19. **Hangman Game**: Classic word guessing game.
-20. **Drum Kit**: Play drum sounds on key press.
-21. **Grocery List**: Add and remove items from a list.
+11. **Palindrome Checker**: Check if a string is a palindrome. | [Task](./palindrome-checker/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/XWLRoLR)
+12. **Character Counter**: Count characters in a textarea. | [Task](./character-counter/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/poXPqMy)
+13. **Weather App**: Fetch and display weather information. | [Task](./weather-app/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/wvLdRVV)
+14. **Currency Converter**: Convert currency rates. | [Task](./currency-converter/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/GRbmzJL)
+15. **BMI Calculator**: Calculate Body Mass Index. | [Task](./bmi-calculator/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/eYwWxZR)
+16. **Simple Form Validation**: Validate form inputs. | [Task](./simple-form-validation/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/ZEdKwOK)
+17. **Temperature Converter**: Convert between Celsius and Fahrenheit. | [Task](./temperature-converter/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/yLdbZPX)
+18. **Dynamic Background Color Changer**: Change background color based on time. | [Task](./dynamic-background-color-changer/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/mdZmvqN)
+19. **Hangman Game**: Classic word guessing game. | [Task](./hangman-game/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/ExBmroL)
+20. **Drum Kit**: Play drum sounds on key press. | [Task](./drum-kit/) | [Live Demo](#)
+21. **Grocery List**: Add and remove items from a list. | [Task](./grocery-list/) | [Live Demo](https://codepen.io/ajay-dhangar/pen/gONWqzb)
 
 ### Intermediate Projects
 
