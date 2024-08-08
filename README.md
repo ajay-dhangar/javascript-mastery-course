@@ -43,11 +43,11 @@ To get started with these project ideas, simply choose a project that interests 
 
 ### Intermediate Projects
 
-1. **Quiz App**: Multiple-choice questions with score tracking.
-2. **Expense Tracker**: Track expenses and categorize them.
-3. **Movie Search App**: Search for movies using an API.
-4. **Image Slider**: Create a simple image carousel.
-5. **Recipe App**: Display recipes based on user search.
+1. **Quiz App**: Multiple-choice questions with score tracking. | [Task](./quiz-app/) | [Live Demo](#)
+2. **Expense Tracker**: Track expenses and categorize them. | [Task](./expense-tracker/) | [Live Demo](#)
+3. **Movie Search App**: Search for movies using an API. | [Task](./movie-search-app/) | [Live Demo](#)
+4. **Image Slider**: Create a simple image carousel. | [Task](./image-slider/) | [Live Demo](#)
+5. **Recipe App**: Display recipes based on user search. | [Task](./recipe-app/) | [Live Demo](#)
 6. **Infinite Scroll**: Implement infinite scrolling.
 7. **Pomodoro Timer**: Productivity timer with work and break intervals.
 8. **Markdown Previewer**: Convert markdown to HTML.
